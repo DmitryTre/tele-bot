@@ -38,7 +38,7 @@ cd kittybot
 bash
 python -m venv venv
 source venv/bin/activate  # Linux/MacOS
-# ИЛИ
+ИЛИ
 venv\Scripts\activate  # Windows
 
 ### Шаг 3. Установка зависимостей
