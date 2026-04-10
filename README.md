@@ -30,7 +30,7 @@ Telegram‑бот, который отправляет милые картинк
 
 ### Шаг 1. Клонирование репозитория
 
-```bash
+bash
 git clone https://github.com/yourusername/kittybot.git
 cd kittybot
 
